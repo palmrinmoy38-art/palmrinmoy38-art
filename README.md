@@ -1,100 +1,67 @@
 # Hi, I'm Mrinmoy Pal 👋
 
-M.Sc. Data Science Graduate | Research Intern @ NIT Delhi | ML · Deep Learning · Fuzzy Logic
+**Data Analyst | AI-Enabled Insights | Python · SQL · Power BI · PyTorch**
 
----
-
-## 🔬 About Me
-- 🎓 M.Sc. Data Science — Central University of Haryana (2026)
-- 🏛️ Research Intern at **NIT Delhi** — building hybrid deep learning models
-- 📊 B.Sc. Statistics — St. Xavier's College, Kolkata
-- 🌱 Currently exploring: Graph Neural Networks, Time Series Forecasting
-- 💼 Open to: Data Scientist / ML Engineer roles across India
-- 📫 Reach me: palmrinmoy38@gmail.com
+I turn messy real-world data into actionable business solutions. 
+M.Sc. Data Science (CUH, 2026) | Research Intern @ NIT Delhi
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚦 Fuzzy-GAT-BiLSTM: Weather-Aware Traffic Congestion Prediction
-> Research Internship · NIT Delhi · 2025–2026
+### [🚦 Weather-Aware Traffic Predictor](https://github.com/palmrinmoy38-art/traffic-congestion-predictor)
+> PyTorch · LSTM · Streamlit · Time Series
 
-Hybrid deep learning framework combining Graph Attention Networks, BiLSTM, and Fuzzy Logic for traffic congestion prediction on the PeMSD4 dataset.
+Hybrid deep learning model for real-time traffic congestion prediction 
+integrating weather sensor data. Deployed with interactive dashboard.
 
-**Results:** R² 0.623 · Accuracy 93.0% · Macro F1 0.447 · Outperformed LSTM, BiLSTM, CNN-LSTM baselines
+**Results:** R² 0.623 | Accuracy 93.0% | Outperformed 3 baseline models
 
-`Python` `PyTorch` `Fuzzy Logic` `GAT` `Time Series` `SMOTE`
-
----
-
-### ⚛️ Quantum Hybrid ML for Image Classification
-> M.Sc. Dissertation · 2025–2026
-
-Quantum-classical hybrid architecture integrating quantum-inspired gradient techniques with PyTorch neural networks, improving generalisation over classical baselines.
-
-`Python` `PyTorch` `Quantum-Inspired ML` `Deep Learning`
+🔗 **Live Demo:** [View App](your-streamlit-link-here)  
+📊 **Dataset:** PeMSD4 sensor data + LA weather data
 
 ---
 
-### 🌧️ Indian Rainfall & Agriculture Impact Dashboard
-> Data Visualization Project · 2024
+### [🌾 India Agriculture Dashboard](https://github.com/palmrinmoy38-art/india-rainfall-agriculture-dashboard)
+> Power BI · Python · Pandas · Data Visualization
 
-Interactive Power BI dashboard covering 20+ years of rainfall data across all 28 Indian states. Identified correlations between rainfall and crop yield across 5+ crop categories.
+Interactive multi-page dashboard analyzing 20+ years of rainfall & crop yield 
+across 28 Indian states. Identified 3 high-drought-risk regions.
 
-`Power BI` `Python` `Data Visualization` `Anomaly Detection`
-
----
-
-### 📈 Time Series Forecasting
-> Mini Project
-
-Applied ARIMA, SARIMA, and Exponential Smoothing to forecast real-world time-dependent data.
-
-`Python` `ARIMA` `SARIMA` `Statsmodels`
+🔗 **Live Dashboard:** [View Here](your-powerbi-link-or-screenshot)
 
 ---
 
-### 🎓 Student Academic Performance Analysis
-> B.Sc. Dissertation
+### [🤖 GenAI Document Q&A Chatbot](https://github.com/palmrinmoy38-art/genai-document-qa)
+> Python · LangChain · OpenAI API · Streamlit · FAISS
 
-Modelled socio-economic and academic factors affecting student performance using Logistic Regression with feature selection and hypothesis testing.
+RAG-based chatbot that answers questions from uploaded PDFs/documents.
+Vector search + semantic chunking for accurate retrieval.
 
-`Python` `Logistic Regression` `Statistical Analysis` `Scikit-learn`
-
----
-
-### 🗄️ Big Data Analytics Using Hadoop
-> Course Project
-
-Implemented Hadoop MapReduce workflows to process large-scale distributed datasets.
-
-`Hadoop` `MapReduce` `Big Data`
+🔗 **Live Demo:** [Try it here](your-streamlit-link-here)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · R · SQL · C
-
-**ML/DL:** PyTorch · Scikit-learn · TensorFlow · LSTM · BiLSTM · CNN · GAT · Fuzzy Logic
-
-**Data:** NumPy · Pandas · Matplotlib · Seaborn
-
-**BI & Big Data:** Power BI · Tableau · Hadoop · Spark · Excel
-
-**Forecasting:** ARIMA · SARIMA · Exponential Smoothing
+**Languages:** Python, SQL, R  
+**ML/DL:** PyTorch, Scikit-learn, XGBoost, Neural Networks  
+**Data:** Pandas, NumPy, SQLAlchemy  
+**Visualization:** Power BI, Tableau, Plotly, Streamlit  
+**GenAI:** LangChain, OpenAI API, Hugging Face Transformers  
+**MLOps:** Git, GitHub Actions, Docker (learning)  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mrinmoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=palmrinmoy38-art&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palmrinmoy38-art&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=palmrinmoy38-art&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🤝 Connect with Me
+## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrinmoy-pal)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palmrinmoy38@gmail.com)
+
+*Open to Data Analyst, Junior ML Engineer, and GenAI Developer roles — remote or hybrid.*

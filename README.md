@@ -64,4 +64,4 @@ Vector search + semantic chunking for accurate retrieval.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrinmoy-pal)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palmrinmoy38@gmail.com)
 
-*Open to Data Analyst, Junior ML Engineer, and GenAI Developer roles — remote or hybrid.*
+*Open to Data Scientist, Data Analyst, Junior ML Engineer, and GenAI Developer roles — remote or hybrid.*
